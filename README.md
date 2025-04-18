@@ -184,7 +184,7 @@ def lambda_handler(event, context):
 ```python
 import requests
 
-api_url = "https://h1hlcxkexd.execute-api.us-east-1.amazonaws.com/default/end-to-end-ml-lambda-function"
+api_url = "https://1234567890.execute-api.us-east-1.amazonaws.com/default/end-to-end-ml-lambda-function"
 headers = {"Content-Type": "text/plain"}
 payload = "L,298.4,308.2,1582,70.7,216"
 
